@@ -1265,3 +1265,14 @@ td span:hover {
 .developer-logo {
     width: 66%
 }
+
+.hero-title {
+    padding: 15px;
+    margin: 0;
+    margin-bottom: 0 !important;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    color: #ffffff !important;
+    background: #00000080;
+}
